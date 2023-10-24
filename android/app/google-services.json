@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "196306931846",
+    "project_id": "mapcommerce-560c6",
+    "storage_bucket": "mapcommerce-560c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196306931846:android:bec561f714d9abfcce8107",
+        "android_client_info": {
+          "package_name": "com.example.mapcommerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2ZJzVkKGND4ykBwjOpbUbatToEKFgpw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

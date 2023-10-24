@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCDc1yrEO7TyLz03sgnDRWzKq-9mjw7xYg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>196306931846</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.mapcommerce</string>
+	<key>PROJECT_ID</key>
+	<string>mapcommerce-560c6</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mapcommerce-560c6.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:196306931846:ios:c3861de4e31bd286ce8107</string>
+</dict>
+</plist>
